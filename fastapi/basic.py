@@ -6,7 +6,5 @@ app = FastAPI()
 def index():
     return{"name": "First Date"}
 
-
-
 # uvicorn basic:app --reload
 # /docs
