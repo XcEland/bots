@@ -1,0 +1,15 @@
+1725274433268	geckodriver	INFO	Listening on 127.0.0.1:55069
+1725274436321	mozrunner::runner	INFO	Running command: "C:\\Users\\Admin\\.cache\\selenium\\firefox\\win64\\129.0.2\\firefox.exe" "--marionette" "--remote-debuggin ... ocalhost" "-no-remote" "-profile" "c:\\Users\\Admin\\AppData\\Local\\robocorp\\temp\\ee8956957c5e5df0\\rust_mozprofile7myY9j"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725274436834	Marionette	INFO	Marionette enabled
+1725274437287	Marionette	INFO	Listening on port 55077
+WebDriver BiDi listening on ws://127.0.0.1:55070
+Read port: 55077
+1725274437591	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&emr=1&ifkv=Ab5oB3oxNuSgUKSqydlWaX4MJNokesXwwUPZBD39IboU-K0zabJ2hNNuuEHHs2hgqaQ9kaDXXSCLOg&ltmpl=default&ltmplcache=2&osid=1&passive=true&rm=false&scc=1&service=mail&ss=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-452535475%3A1725274443792181&ddm=1 line 806 > injectedScript line 2 > eval line 6140 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1725274463099	Marionette	INFO	Stopped listening on port 55077
+Dynamically enable window occlusion 1

@@ -1,0 +1,20 @@
+1725274328027	geckodriver	INFO	Listening on 127.0.0.1:54958
+1725274331134	mozrunner::runner	INFO	Running command: "C:\\Users\\Admin\\.cache\\selenium\\firefox\\win64\\129.0.2\\firefox.exe" "--marionette" "--remote-debuggin ... ocalhost" "-no-remote" "-profile" "c:\\Users\\Admin\\AppData\\Local\\robocorp\\temp\\da89e68ddc5b7910\\rust_mozprofileIWnpmN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725274333388	Marionette	INFO	Marionette enabled
+1725274333956	Marionette	INFO	Listening on port 54984
+WebDriver BiDi listening on ws://127.0.0.1:54959
+Read port: 54984
+1725274334343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&emr=1&ifkv=Ab5oB3oJZQzcfbs3zBLycD98tUgssgYJjiYOR-v-09qs3RxPNwrhzpKReck9ckwEosjmIDvqRnpKwA&ltmpl=default&ltmplcache=2&osid=1&passive=true&rm=false&scc=1&service=mail&ss=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S187947718%3A1725274341400539&ddm=0 line 806 > injectedScript line 2 > eval line 639 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1725274362298	Marionette	INFO	Stopped listening on port 54984
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UpdateService.sys.mjs, line 5350: 
+1725274363566	addons.xpi	ERROR	System addon update list error [Exception... "<no message>"  nsresult: "0x8046001e (<unknown>)"  location: "JS frame :: resource://gre/modules/ServiceRequest.sys.mjs :: open :: line 133"  data: no]
+console.error: (new Error("Polling for changes failed: .", "resource://services-settings/remote-settings.sys.mjs", 324))
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", "resource://gre/modules/Region.sys.mjs", 738))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
